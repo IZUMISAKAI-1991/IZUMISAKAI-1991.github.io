@@ -6,7 +6,7 @@
   <link href="https://zard.fun/atom.xml" rel="self"/>
   
   <link href="https://zard.fun/"/>
-  <updated>2021-06-26T16:16:07.119Z</updated>
+  <updated>2021-06-27T16:06:24.325Z</updated>
   <id>https://zard.fun/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>210627</title>
+    <link href="https://zard.fun/2021/06/27/21-06-27/"/>
+    <id>https://zard.fun/2021/06/27/21-06-27/</id>
+    <published>2021-06-27T15:36:15.000Z</published>
+    <updated>2021-06-27T16:06:24.325Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="日记"><a href="#日记" class="headerlink" title="日记"></a>日记</h2><p>今天是2021年6月27日，下雨。昨日睡得很晚，非常晚。睡到中午起床，交个报告然后洗澡去机房。心印告诉我今天网管不在，我直接偷家。潜入101窃取机密文件，一整个下午就在研究他的东西。本来是去学信号与系统的，结果不了了之。然后机房今天空调坏了一会，怎么开都吹不出冷气热死了，过了好久才开始凉起来。一个下午就是看东西看过去了。然后干饭。干完回来继续看，发现有用机房vpn的人专门在扫edu的网站，在那边乱扫很危险。今天统计了机房ip的攻击次数68.9万次，被态势感知标红。还有个堡垒机在里面，可以看到你登陆服务器后操作的录屏。所以干坏事要谨慎。晚上坐那边随便看看后回寝室lol了。后来梁左找我打守望先锋。哈哈一盘没赢。妙啊。。</p><p>今天狗在玩红警。</p><hr><h2 id="账单"><a href="#账单" class="headerlink" title="账单"></a>账单</h2><table><thead><tr><th>类型</th><th>金额</th></tr></thead><tbody><tr><td>饭</td><td>8.4￥</td></tr><tr><td>水</td><td>12￥</td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;日记&quot;&gt;&lt;a href=&quot;#日记&quot; class=&quot;headerlink&quot; title=&quot;日记&quot;&gt;&lt;/a&gt;日记&lt;/h2&gt;&lt;p&gt;今天是2021年6月27日，下雨。昨日睡得很晚，非常晚。睡到中午起床，交个报告然后洗澡去机房。心印告诉我今天网管不在，我直接偷家。潜入101</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="https://zard.fun/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="日常" scheme="https://zard.fun/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+    <category term="账单" scheme="https://zard.fun/tags/%E8%B4%A6%E5%8D%95/"/>
+    
+  </entry>
   
   <entry>
     <title>210626</title>
